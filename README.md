@@ -5,15 +5,13 @@ An APP for kindergarten kids primary School interview,is to simulate some real i
 
 <br /> 
 v1.0.1(2016/6/15，已上架APP STORE, has been added to APP STORE)   <br /> 
-   <br /> 
-
 第一次做APP，无人指导，问题比较多。   <br /> 
 My first APP, no one to teach, have more problems.   <br /> 
-![image](https://github.com/wowaji/GotoSchool/blob/master/ios_views/common/sight/aa.png =180)
-![image](https://github.com/wowaji/GotoSchool/blob/master/ios_views/common/sight/1.png =180)
-![image](https://github.com/wowaji/GotoSchool/blob/master/ios_views/common/sight/2.png =180)
-![image](https://github.com/wowaji/GotoSchool/blob/master/ios_views/common/sight/3.png =180)
-![image](https://github.com/wowaji/GotoSchool/blob/master/ios_views/common/sight/4.png =180)
+![image](https://github.com/wowaji/GotoSchool/blob/master/ios_views/common/sight/aa.png)
+![image](https://github.com/wowaji/GotoSchool/blob/master/ios_views/common/sight/1.png)
+![image](https://github.com/wowaji/GotoSchool/blob/master/ios_views/common/sight/2.png)
+![image](https://github.com/wowaji/GotoSchool/blob/master/ios_views/common/sight/3.png)
+![image](https://github.com/wowaji/GotoSchool/blob/master/ios_views/common/sight/4.png)
 
 
 
@@ -32,11 +30,8 @@ The Android Version is coming ~     <br />
 
 
 如有建议可以给我发邮件     <br /> 
-If any advice you can give me an email     <br /> 
-
+If someone have any advice can give me an email     <br /> 
 <br /> 
-<br /> 
-
 1397752@qq.com   
 <br /> 
 Thanks.
