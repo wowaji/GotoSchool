@@ -1,0 +1,16 @@
+{
+  "name": "GotoSchool",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react-native": "^0.19.0",
+    "react-native-audioplayer": "^0.2.0",
+    "react-native-checkbox": "^1.0.8",
+    "react-native-simple-sound": "^1.0.0",
+    "react-native-sound": "^0.8.1",
+    "react-native-update": "^1.0.5"
+  }
+}
