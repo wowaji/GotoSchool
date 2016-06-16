@@ -6,10 +6,11 @@ An APP for kindergarten kids primary School interview,is to simulate some real i
 
 v1.0.1(2016/6/15，已上架APP STORE, has been added to APP STORE)
 
+
+
 第一次做APP，无人指导，问题比较多。
 My first APP, no one to teach, have more problems.
-
-
+/Users/huanghuazhi/Desktop/4/aa.png
 安卓版本正在制作中~
 Android Version is coming ~
 
